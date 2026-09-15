@@ -1,0 +1,41 @@
+10
+1
+T-shirt
+50000
+25
+2
+Hoodie
+90000
+34
+3
+Leather boots
+80000
+2
+4
+Leather jacket
+100000
+5
+5
+Sandals
+30000
+10
+6
+Denim Jeans
+45000
+30
+7
+Sneakers
+65000
+15
+8
+Leather Purse
+40000
+1
+9
+Short Pants
+22000
+60
+10
+Leather Belt
+18000
+20
